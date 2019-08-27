@@ -11,4 +11,4 @@ IntelliJ IDEAにインポートするためのサンプルプロジェクトで�
 
 
 ---
-[参考資料：ドワンゴ社](https://dwango.github.io/scala_text/)
+[参考資料：ドワンゴ社の新卒エンジニア向けの研修資料](https://dwango.github.io/scala_text/)
